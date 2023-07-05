@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    src: url('../fonts/Inter-VariableFont_slnt\,wght.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    src: url('../fonts/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    src: url('../fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf') format('truetype');
+}
